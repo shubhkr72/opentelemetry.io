@@ -1,8 +1,8 @@
 ---
-title: Building a custom Collector
-linkTitle: Custom Collector
-weight: 26
-cSpell:ignore: buildx distroless mkdir
+title: Building a custom collector
+weight: 29
+# prettier-ignore
+cSpell:ignore: chipset darwin debugexporter gomod otlpexporter otlpreceiver wyrtw
 ---
 
 If you are building and debugging custom Collector receivers, processors,
